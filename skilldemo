@@ -1,6 +1,0 @@
-public class skilldemo{
-    public void int add(int r, int s){
-        return r+s+s;
-
-    }
-}
